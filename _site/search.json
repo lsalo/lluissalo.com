@@ -4,7 +4,7 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "Content coming soon."
+    "text": "role\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -54,5 +54,47 @@
     "title": "Software",
     "section": "",
     "text": "Content coming soon."
+  },
+  {
+    "objectID": "people/lluis-salo.html",
+    "href": "people/lluis-salo.html",
+    "title": "Lluís Saló-Salgado",
+    "section": "",
+    "text": "Assistant Professor at the University of Tennessee, Knoxville.\nResearch interests: simulation and assessment of geosystems, learning-based methods for Earth system modeling."
+  },
+  {
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
+    "title": "People",
+    "section": "",
+    "text": "role\n\n\nPrincipal Investigator\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#postdocs",
+    "href": "people.html#postdocs",
+    "title": "People",
+    "section": "Postdocs",
+    "text": "Postdocs\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/postdoc-template.html",
+    "href": "people/postdoc-template.html",
+    "title": "Postdoc Name",
+    "section": "",
+    "text": "Short bio and research interests."
+  },
+  {
+    "objectID": "people.html#postdoctoral-researchers",
+    "href": "people.html#postdoctoral-researchers",
+    "title": "People",
+    "section": "Postdoctoral Researchers",
+    "text": "Postdoctoral Researchers\n\n\n\n\n\n\n\n\n\n\nPostdoc Name\n\n\n\n\n\nrole\n\n\nPostdoctoral Researcher\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#graduate-students",
+    "href": "people.html#graduate-students",
+    "title": "People",
+    "section": "Graduate Students",
+    "text": "Graduate Students"
   }
 ]

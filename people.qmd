@@ -1,5 +1,33 @@
 ---
 title: "People"
+listing:
+  - id: pi
+    contents: people
+    type: grid
+    grid-columns: 3
+    sort: "order"
+    fields: [image, title, role]
+    include:
+      group: "PI"
+  - id: postdocs
+    contents: people
+    type: grid
+    grid-columns: 3
+    sort: "order"
+    fields: [image, title, role]
+    include:
+      group: "Postdocs"
 ---
 
-Content coming soon.
+:::{#pi}
+:::
+
+## Postdoctoral Researchers
+
+:::{#postdocs}
+:::
+
+## Graduate Students
+
+:::{#grads}
+:::

@@ -3,6 +3,7 @@ project:
 
 website:
   title: "SALO Lab"
+  site-url: "https://lluissalo.com"
   navbar:
     left:
       - href: index.qmd
@@ -19,6 +20,11 @@ website:
         text: Join
       - href: software.qmd
         text: Software
+  page-footer:
+    left: "SALO Lab — University of Tennessee, Knoxville"
+    right:
+      - text: "ORCID"
+        href: "https://orcid.org/0000-0003-3339-538X"
 
 format:
   html:
@@ -26,7 +32,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 
 

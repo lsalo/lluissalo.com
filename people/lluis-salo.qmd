@@ -1,0 +1,11 @@
+---
+title: "Lluís Saló-Salgado"
+role: "Principal Investigator"
+group: "PI"
+order: 1
+image: "/images/people/lluis-salo.jpg"
+---
+
+Assistant Professor at the University of Tennessee, Knoxville.
+
+Research interests: simulation and assessment of geosystems, learning-based methods for Earth system modeling.
