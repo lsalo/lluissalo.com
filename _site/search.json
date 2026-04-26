@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "SALO Lab",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "# Simulation, Assessment, and Learning of geOsystems (SALO) Lab"
   },
   {
     "objectID": "research.html",
@@ -37,16 +37,16 @@
   {
     "objectID": "join.html",
     "href": "join.html",
-    "title": "Join",
+    "title": "Join our Lab!",
     "section": "",
-    "text": "Content coming soon."
+    "text": "The Simulation, Assessment, and Learning of geOsystems (SALO) Lab at the University of Tennessee, Knoxville, is always seeking motivated researchers to join a collaborative team working at the intersection of fault processes, subsurface energy, and risk mitigation. We focus on addressing scientific challenges to advance sustainable energy development in geosystems, and embrace all forms of inquiry including computation, experiments, and field work.\nWe are looking for applicants interested in one or more of the following areas:"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Content coming soon."
+    "text": "For the most up-to-date list, see my Google Scholar profile."
   },
   {
     "objectID": "software.html",
@@ -60,7 +60,7 @@
     "href": "people/lluis-salo.html",
     "title": "Lluís Saló-Salgado",
     "section": "",
-    "text": "Assistant Professor at the University of Tennessee, Knoxville.\nResearch interests: simulation and assessment of geosystems, learning-based methods for Earth system modeling."
+    "text": "Assistant Professor\n    Barbara McDonald Endowed Professorship in Energy Transition\n    \n      Department of Earth, Environmental, and Planetary Sciences (EEPS)\n      Department of Civil and Environmental Engineering (CEE)\n      The University of Tennessee, Knoxville\n    \n    \n       salo@utk.edu · \n      Google Scholar · \n      ORCID · \n      GitHub · \n      Full CV (PDF)"
   },
   {
     "objectID": "people.html#principal-investigator",
@@ -96,5 +96,124 @@
     "title": "People",
     "section": "Graduate Students",
     "text": "Graduate Students"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Simulation, Assessment, and Learning of geOsystems (SALO) Lab",
+    "section": "About",
+    "text": "About\nOur group uses a variety of approaches to simulate, assess, and understand geosystems. In particular, we combine physics-based and data-driven modeling with laboratory experiments to address fundamental and applied research questions at the intersection of geoscience, subsurface energy, and the environment. We are based in the Department of Earth, Environmental, and Planetary Sciences at the University of Tennessee, Knoxville, where we regularly interact with the Department of Civil and Environmental Engineering and the Bredesen Center for Interdisciplinary Research and Graduate Education."
+  },
+  {
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
+    "title": "Simulation, Assessment, and Learning of geOsystems (SALO) Lab",
+    "section": "Research Themes",
+    "text": "Research Themes\n\n\n\n\n\nTheme Title 1\nShort description of this research theme (2–3 sentences).\nLearn more →\n\n\n\n\n\n\n\nTheme Title 2\nShort description of this research theme (2–3 sentences).\nLearn more →\n\n\n\n\n\n\n\nTheme Title 3\nShort description of this research theme (2–3 sentences).\nLearn more →"
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Simulation, Assessment, and Learning of geOsystems (SALO) Lab",
+    "section": "Latest News",
+    "text": "Latest News\n\nMay 2026 — Rubén Vidal Montes joins the group as a Postdoctoral Researcher. Welcome!\nApr 2026 — Hannah Lu’s paper accepted in Stochastic Environmental Research and Risk Assessment.\nMar 2026 — L. T. Ozgur Yildirim joins the group as a Postdoctoral Researcher. Welcome!"
+  },
+  {
+    "objectID": "index.html#research-directions",
+    "href": "index.html#research-directions",
+    "title": "Simulation, Assessment, and Learning of geOsystems (SALO) Lab",
+    "section": "Research Directions",
+    "text": "Research Directions\n\n\n\n\n\nFault Zone Characterization\nDevelopment of new tools to study fault zone evolution and improve their characterization in numerical models.\nLearn more →\n\n\n\n\n\n\n\n\n\nGeologic Carbon Dioxide Sequestration (GCS)\nMitigation of environmental risks associated with GCS, with particular emphasis on fluid migration through faults and induced seismicity.\nLearn more →\n\n\n\n\n\n\n\nOther energy research\nOther relevant work that is not yet sufficiently developed or extensive to deserve its own section\nLearn more →"
+  },
+  {
+    "objectID": "publications.html#in-review",
+    "href": "publications.html#in-review",
+    "title": "Publications",
+    "section": "In Review",
+    "text": "In Review\n\nH. Lu, Lluís Saló-Salgado, and R. Juanes. Sensitivity analysis and surrogate modeling for lithological controls on fault permeability, 2025. Preprint"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\n\nB. Littlejohn, Lluís Saló-Salgado, A. Plesch, and J. H. Shaw. Integrated geologic and socio-economic evaluation of potential underground hydrogen storage sites in the Los Angeles Basin. International Journal of Hydrogen Energy, 202:152964, 2026. DOI"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nH. Lu, Lluís Saló-Salgado, Y. M. Marzouk, and R. Juanes. Uncertainty quantification of fluid leakage and fault instability in geologic CO\\(_2\\) storage. Water Resources Research, 61(10):e2024WR039275, 2025. DOI\nLluís Saló-Salgado, J. A. Silva, L. Lun, C. M. Rogers, J. S. Davis, and R. Juanes. Assessing CO\\(_2\\) migration within faults during megatonne-scale geologic carbon dioxide storage in offshore Texas. Water Resources Research, 61(5):e2024WR037059, 2025. DOI"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nLluís Saló-Salgado, O. Møyner, K.-A. Lie, and R. Juanes. Three-dimensional simulation of geologic carbon dioxide storage using MRST. Advances in Geo-Energy Research, 14(1):34–48, 2024. DOI\nM. Haugen, Lluís Saló-Salgado, K. Eikehaug, B. Benali, J. W. Both, E. Storvik, O. Folkvord, R. Juanes, J. M. Nordbotten, and M. Fernø. Physical variability in meter-scale laboratory CO\\(_2\\) injections in faulted geometries. Transport in Porous Media, 151:1169–1197, 2024. DOI\nLluís Saló-Salgado, M. Haugen, K. Eikehaug, M. Fernø, J. M. Nordbotten, and R. Juanes. Direct comparison of numerical simulations and experiments of CO\\(_2\\) injection and migration in geologic media: Value of local data and forecasting capability. Transport in Porous Media, 151:1199–1240, 2024. DOI"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nJ. A. Silva, Lluís Saló-Salgado, J. Patterson, G. R. Dasari, and R. Juanes. Assessing the viability of CO\\(_2\\) storage in offshore formations of the Gulf of Mexico at a scale relevant for climate-change mitigation. International Journal of Greenhouse Gas Control, 126(6):103884, 2023. DOI\nLluís Saló-Salgado, J. S. Davis, and R. Juanes. Fault permeability from stochastic modeling of clay smears. Geology, 51(1):91–95, 2023. DOI"
+  },
+  {
+    "objectID": "publications.html#before-2023",
+    "href": "publications.html#before-2023",
+    "title": "Publications",
+    "section": "Before 2023",
+    "text": "Before 2023\n\nJ. A. Gili, R. Ruiz-Carulla, G. Matas, J. Moya, A. Prades, J. Corominas, N. Lantada, M.-A. Núñez Andrés, F. Buill, C. Puig, J. Martínez-Bofill, Lluís Saló, and O. Mavrouli. Rockfalls: analysis of the block fragmentation through field experiments. Landslides, 2022. DOI\nLluís Saló, J. Corominas, N. Lantada, G. Matas, A. Prades, and R. Ruiz-Carulla. Seismic energy analysis as generated by impact and fragmentation of single-block experimental rockfalls. Journal of Geophysical Research: Earth Surface, 123(6):1450–1478, 2018. DOI\nLluís Saló, T. Frontera, X. Goula, L. G. Pujades, and A. Ledesma. Earthquake static stress transfer in the 2013 Gulf of Valencia (Spain) seismic sequence. Solid Earth, 8:857–857, 2017. DOI"
+  },
+  {
+    "objectID": "publications.html#other-writing",
+    "href": "publications.html#other-writing",
+    "title": "Publications",
+    "section": "Other Writing",
+    "text": "Other Writing\n\nLluís Saló-Salgado. Numerical Modeling of Geologic Carbon Dioxide Storage in Faulted Siliciclastic Settings. PhD Thesis, Massachusetts Institute of Technology, 2024. MIT DSpace\nLluís Saló-Salgado, A. Acocella, I. Arzuaga García, S. El Mousadik, and A. Zvinavashe. Managing up: how to communicate effectively with your PhD adviser. Nature, 2021. DOI"
+  },
+  {
+    "objectID": "people/lluis-salo.html#bio",
+    "href": "people/lluis-salo.html#bio",
+    "title": "Lluís Saló-Salgado",
+    "section": "Bio",
+    "text": "Bio\nI am an Assistant Professor in the Department of Earth, Environmental, and Planetary Sciences at the University of Tennessee, Knoxville, where I hold the Barbara McDonald Endowed Professorship in Energy Transition. I also hold an adjunct appointment in the Department of Civil and Environmental Engineering.\nI received my PhD in Geotechnical and Geoenvironmental Engineering from MIT in 2024, advised by Ruben Juanes. Before joining UTK, I was a Postdoctoral Fellow at Harvard University and a Postdoctoral Associate at MIT, working with John Shaw (Harvard) and Ruben Juanes (MIT). I also hold an MS in Geotechnical and Earthquake Engineering from Universitat Politècnica de Catalunya and a BS in Geology from Universitat de Barcelona."
+  },
+  {
+    "objectID": "people/lluis-salo.html#research",
+    "href": "people/lluis-salo.html#research",
+    "title": "Lluís Saló-Salgado",
+    "section": "Research",
+    "text": "Research\nOur research lies at the intersection of geology, flow in porous media, and geomechanics. We develop physics-based and data-driven computational tools—anchored with field and experimental observations—to elucidate the interplay between geologic discontinuities, fluid migration, and seismicity. Our goal is to enable sustainable development of engineered geosystems for the energy transition.\nCurrent research directions include:\n\nFault zone characterization: developing new tools to study fault zone evolution and improve their representation in numerical models\nGeologic carbon dioxide sequestration: mitigating environmental risks associated with CO₂ storage, with emphasis on fluid migration through faults and induced seismicity\nSubsurface energy systems: coupled flow and geomechanics modeling for hydrogen storage, geothermal energy, and other geoenergy applications"
+  },
+  {
+    "objectID": "people/lluis-salo.html#teaching",
+    "href": "people/lluis-salo.html#teaching",
+    "title": "Lluís Saló-Salgado",
+    "section": "Teaching",
+    "text": "Teaching\nThe University of Tennessee, Knoxville\n\nEEPS 590: Modeling and Simulation of Subsurface Energy Systems (Graduate, Fall 2026)\nEEPS 690: Seminar in Earth & Environmental Sciences: Subsurface Energy Systems and the Environment (Graduate, Spring 2026)\n\nPrevious\n\nHarvard EPS 272: Topics in Structural Geology & Earthquake Science — Guest Instructor (Fall 2025)\nMIT 1.000: Introduction to Computer Programming and Numerical Methods for Engineering Applications — Lab Instructor (Fall 2024)\nMIT 1.723: Computational Methods for Flow in Porous Media — Teaching Assistant (Fall 2020, Fall 2022)"
+  },
+  {
+    "objectID": "join.html#postdoctoral-researchers",
+    "href": "join.html#postdoctoral-researchers",
+    "title": "Join our Lab!",
+    "section": "Postdoctoral Researchers",
+    "text": "Postdoctoral Researchers\nWe periodically have openings for postdoctoral researchers. Ideal candidates have a PhD in geoscience, engineering, or a related field, and experience in computational or experimental research related to our group’s interests.\nIf you are interested, please send your CV and a brief cover letter (one page) including research interests, background, and contact information for 2–3 references to Dr. Lluís Saló-Salgado."
+  },
+  {
+    "objectID": "join.html#graduate-students",
+    "href": "join.html#graduate-students",
+    "title": "Join our Lab!",
+    "section": "Graduate Students",
+    "text": "Graduate Students\nGraduate students can apply through the UTK Graduate School and will typically pursue a degree in one of the following programs:\n\nEarth, Environmental, and Planetary Sciences (EEPS)\nCivil and Environmental Engineering (CEE)\nEnergy Science and Engineering (Bredesen Center)\n\nAdmission offers are anticipated to cover tuition, health insurance, and provide a monthly stipend. Please do check the respective program websites for department-specific requirements and application deadlines.\n\n  \n    💡\n    Prospective students\n  \n  \n    If you are interested in joining the SALO Lab, I encourage you to email me at salo@utk.edu with a brief description of your background and research interests, along with your CV. Please, do not use AI to write this email. If I do not reply within two or three weeks, you are welcome to send me a follow-up email. I may not be able to respond to all emails, but that does not mean that I am not interested in working with you — it could simply mean that I am behind on email. I typically reply to prospective graduate student emails during admissions season only (August–December)."
+  },
+  {
+    "objectID": "join.html#undergraduate-students",
+    "href": "join.html#undergraduate-students",
+    "title": "Join our Lab!",
+    "section": "Undergraduate Students",
+    "text": "Undergraduate Students\nWe welcome motivated undergraduate students interested in gaining research experience. UTK undergraduates can get involved through independent study courses or summer research opportunities. If you are interested, please reach out to Dr. Lluís Saló-Salgado and/or the group members you are interested in working with, with a brief note about your interests and background.\n\nAll members of the SALO Lab are expected to contribute to a respectful, welcoming, and collaborative environment."
   }
 ]

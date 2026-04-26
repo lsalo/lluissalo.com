@@ -5,6 +5,9 @@ website:
   title: "SALO Lab"
   site-url: "https://lluissalo.com"
   navbar:
+    background: "#FF8200"
+    foreground: "#ffffff"
+    logo: images/utklogo_left_onOrange.png
     left:
       - href: index.qmd
         text: Home
@@ -14,17 +17,10 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: teaching.qmd
-        text: Teaching
-      - href: join.qmd
-        text: Join
       - href: software.qmd
         text: Software
-  page-footer:
-    left: "SALO Lab — University of Tennessee, Knoxville"
-    right:
-      - text: "ORCID"
-        href: "https://orcid.org/0000-0003-3339-538X"
+      - href: join.qmd
+        text: Join
 
 format:
   html:
@@ -33,6 +29,5 @@ format:
       - brand
     css: styles.css
     toc: false
-
-
-
+    include-in-header: _includes/fonts.html
+    include-after-body: _includes/footer.html

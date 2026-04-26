@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lluissalo.com/index.html</loc>
-    <lastmod>2026-04-11T22:16:39.108Z</lastmod>
+    <lastmod>2026-04-26T22:55:06.678Z</lastmod>
   </url>
   <url>
     <loc>https://lluissalo.com/people/lluis-salo.html</loc>
-    <lastmod>2026-04-11T23:46:13.516Z</lastmod>
+    <lastmod>2026-04-26T21:50:08.840Z</lastmod>
   </url>
   <url>
     <loc>https://lluissalo.com/people.html</loc>
@@ -22,6 +22,14 @@
   </url>
   <url>
     <loc>https://lluissalo.com/publications.html</loc>
-    <lastmod>2026-04-11T22:20:03.230Z</lastmod>
+    <lastmod>2026-04-26T21:00:51.080Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lluissalo.com/software.html</loc>
+    <lastmod>2026-04-11T22:20:21.792Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lluissalo.com/join.html</loc>
+    <lastmod>2026-04-26T22:44:15.562Z</lastmod>
   </url>
 </urlset>

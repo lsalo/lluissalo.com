@@ -1,7 +1,68 @@
 ---
-title: "SALO Lab"
+title: ""
+page-layout: full
+toc: false
 ---
 
-This is a Quarto website.
+<div class="banner-carousel">
+  <img src="images/banner/banner-1.jpg" class="banner-slide slide-1" />
+  <img src="images/banner/banner-2.jpg" class="banner-slide slide-2" />
+  <img src="images/banner/banner-3.jpg" class="banner-slide slide-3" />
+  <img src="images/banner/banner-4.jpg" class="banner-slide slide-4" />
+</div>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.banner-title}
+# [S]{.accent}imulation, [A]{.accent}ssessment, and [L]{.accent}earning of ge[O]{.accent}systems ([SALO]{.accent}) Lab
+:::
+
+## About
+Our group uses a variety of approaches to simulate, assess, and understand geosystems. In particular, we combine physics-based and data-driven modeling with laboratory experiments to address fundamental and applied research questions at the intersection of geoscience, subsurface energy, and the environment. We are based in the Department of Earth, Environmental, and Planetary Sciences at the University of Tennessee, Knoxville, where we regularly interact with the Department of Civil and Environmental Engineering and the Bredesen Center for Interdisciplinary Research and Graduate Education.
+
+## Latest News
+- **May 2026** — Rubén Vidal Montes joins the group as a Postdoctoral Researcher. Welcome!
+- **Apr 2026** — Hannah Lu's paper accepted in *Stochastic Environmental Research and Risk Assessment*. 
+- **Mar 2026** — L. T. Ozgur Yildirim joins the group as a Postdoctoral Researcher. Welcome!
+<!-- - **Jan 2026** — Lluís joins UTK as the Barbara McDonald Assistant Professor in Energy Transition. ![](images/news/utk-join.jpg){.news-img} -->
+
+## Research Directions
+
+::: {.grid}
+
+::: {.g-col-4}
+::: {.card}
+![](images/research/theme-1.png){.card-img-top}
+
+### Fault Zone Characterization
+Development of new tools to study fault zone evolution and improve their characterization in numerical models.
+
+[Learn more →](research.qmd#theme-1)
+:::
+:::
+
+::: {.g-col-4}
+::: {.card}
+```{=html}
+<div class="card-video">
+<iframe src="https://www.youtube.com/embed/xnWL8WcfzsI?si=cWL7FT36gfz_b11T" frameborder="0" allowfullscreen></iframe>
+</div>
+```
+
+### Geologic Carbon Dioxide Sequestration (GCS)
+Mitigation of environmental risks associated with GCS, with particular emphasis on fluid migration through faults and induced seismicity.
+
+[Learn more →](research.qmd#theme-2)
+:::
+:::
+
+::: {.g-col-4}
+::: {.card}
+![](images/research/theme-3.jpg){.card-img-top}
+
+### Other energy research
+Other relevant work that is not yet sufficiently developed or extensive to deserve its own section
+
+[Learn more →](research.qmd#theme-3)
+:::
+:::
+
+:::

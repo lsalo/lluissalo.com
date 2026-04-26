@@ -6,6 +6,57 @@ order: 1
 image: "/images/people/lluis-salo.jpg"
 ---
 
-Assistant Professor at the University of Tennessee, Knoxville.
+```{=html}
+<div class="profile-header">
+  <div class="profile-photo">
+    <img src="/images/people/lluis-salo.jpg" alt="Lluís Saló-Salgado">
+  </div>
+  <div class="profile-info">
+     <!-- <h1>Lluís Saló-Salgado, PhD</h1> -->
+    <p class="profile-title">Assistant Professor</p>
+    <p class="profile-title">Barbara McDonald Endowed Professorship in Energy Transition</p>
+    <p class="profile-affiliations">
+      Department of Earth, Environmental, and Planetary Sciences (EEPS)<br>
+      Department of Civil and Environmental Engineering (CEE)<br>
+      The University of Tennessee, Knoxville
+    </p>
+    <p class="profile-links">
+      <a href="mailto:salo@utk.edu"><i class="bi bi-envelope-fill"></i> salo@utk.edu</a> · 
+      <a href="https://scholar.google.com/citations?user=bRhJjf4AAAAJ" target="_blank">Google Scholar</a> · 
+      <a href="https://orcid.org/0000-0003-3339-538X" target="_blank">ORCID</a> · 
+      <a href="https://github.com/lsalo" target="_blank">GitHub</a> · 
+      <a href="/data/Salo-Salgado_CV.pdf" target="_blank">Full CV (PDF)</a>
+    </p>
+  </div>
+</div>
+```
 
-Research interests: simulation and assessment of geosystems, learning-based methods for Earth system modeling.
+## Bio
+
+I am an Assistant Professor in the Department of Earth, Environmental, and Planetary Sciences at the University of Tennessee, Knoxville, where I hold the Barbara McDonald Endowed Professorship in Energy Transition. I also hold an adjunct appointment in the Department of Civil and Environmental Engineering.
+
+I received my PhD in Geotechnical and Geoenvironmental Engineering from MIT in 2024, advised by Ruben Juanes. Before joining UTK, I was a Postdoctoral Fellow at Harvard University and a Postdoctoral Associate at MIT, working with John Shaw (Harvard) and Ruben Juanes (MIT). I also hold an MS in Geotechnical and Earthquake Engineering from Universitat Politècnica de Catalunya and a BS in Geology from Universitat de Barcelona.
+
+## Research
+
+Our research lies at the intersection of geology, flow in porous media, and geomechanics. We develop physics-based and data-driven computational tools—anchored with field and experimental observations—to elucidate the interplay between geologic discontinuities, fluid migration, and seismicity. Our goal is to enable sustainable development of engineered geosystems for the energy transition.
+
+Current research directions include:
+
+- **Fault zone characterization**: developing new tools to study fault zone evolution and improve their representation in numerical models
+- **Geologic carbon dioxide sequestration**: mitigating environmental risks associated with CO₂ storage, with emphasis on fluid migration through faults and induced seismicity
+- **Subsurface energy systems**: coupled flow and geomechanics modeling for hydrogen storage, geothermal energy, and other geoenergy applications
+
+## Teaching
+
+**The University of Tennessee, Knoxville**
+
+- EEPS 590: Modeling and Simulation of Subsurface Energy Systems (Graduate, Fall 2026)
+
+- EEPS 690: Seminar in Earth & Environmental Sciences: Subsurface Energy Systems and the Environment (Graduate, Spring 2026)
+
+**Previous**
+
+- Harvard EPS 272: Topics in Structural Geology & Earthquake Science — Guest Instructor (Fall 2025)
+- MIT 1.000: Introduction to Computer Programming and Numerical Methods for Engineering Applications — Lab Instructor (Fall 2024)
+- MIT 1.723: Computational Methods for Flow in Porous Media — Teaching Assistant (Fall 2020, Fall 2022)

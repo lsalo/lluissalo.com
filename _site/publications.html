@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1fefc7dbbf32c71b7813b9e9dd085ec4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,7 +70,37 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/serif.css">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -82,6 +112,10 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/utklogo_left_onOrange.png" alt="" class="navbar-logo light-content">
+    <img src="./images/utklogo_left_onOrange.png" alt="" class="navbar-logo dark-content">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">SALO Lab</span>
     </a>
@@ -109,16 +143,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
-<span class="menu-text">Teaching</span></a>
+    <a class="nav-link" href="./software.html"> 
+<span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./join.html"> 
 <span class="menu-text">Join</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./software.html"> 
-<span class="menu-text">Software</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -154,11 +184,174 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Content coming soon.</p>
+<div class="scholar-link">
+<img src="images/gs_bw.png" style="height: 24px; width: auto; vertical-align: -5px; margin-right: 6px;">
+For the most up-to-date list, see my <a href="https://scholar.google.com/citations?user=bRhJjf4AAAAJ&amp;hl=en&amp;oi=ao" target="_blank">Google Scholar profile</a>.
+</div>
+<section id="in-review" class="level2">
+<h2 class="anchored" data-anchor-id="in-review">In Review</h2>
+<ul>
+<li>H. Lu, <strong>Lluís Saló-Salgado</strong>, and R. Juanes. Sensitivity analysis and surrogate modeling for lithological controls on fault permeability, 2025. <a href="https://doi.org/10.48550/arXiv.2511.09674">Preprint</a></li>
+</ul>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section">2026</h2>
+<ul>
+<li>B. Littlejohn, <strong>Lluís Saló-Salgado</strong>, A. Plesch, and J. H. Shaw. Integrated geologic and socio-economic evaluation of potential underground hydrogen storage sites in the Los Angeles Basin. <em>International Journal of Hydrogen Energy</em>, 202:152964, 2026. <a href="https://doi.org/10.1016/j.ijhydene.2025.152964">DOI</a></li>
+</ul>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">2025</h2>
+<ul>
+<li><p>H. Lu, <strong>Lluís Saló-Salgado</strong>, Y. M. Marzouk, and R. Juanes. Uncertainty quantification of fluid leakage and fault instability in geologic CO<span class="math inline">\(_2\)</span> storage. <em>Water Resources Research</em>, 61(10):e2024WR039275, 2025. <a href="https://doi.org/10.1029/2024WR039275">DOI</a></p></li>
+<li><p><strong>Lluís Saló-Salgado</strong>, J. A. Silva, L. Lun, C. M. Rogers, J. S. Davis, and R. Juanes. Assessing CO<span class="math inline">\(_2\)</span> migration within faults during megatonne-scale geologic carbon dioxide storage in offshore Texas. <em>Water Resources Research</em>, 61(5):e2024WR037059, 2025. <a href="https://doi.org/10.1029/2024WR037059">DOI</a></p></li>
+</ul>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2024</h2>
+<ul>
+<li><p><strong>Lluís Saló-Salgado</strong>, O. Møyner, K.-A. Lie, and R. Juanes. Three-dimensional simulation of geologic carbon dioxide storage using MRST. <em>Advances in Geo-Energy Research</em>, 14(1):34–48, 2024. <a href="https://doi.org/10.46690/ager.2024.10.06">DOI</a></p></li>
+<li><p>M. Haugen, <strong>Lluís Saló-Salgado</strong>, K. Eikehaug, B. Benali, J. W. Both, E. Storvik, O. Folkvord, R. Juanes, J. M. Nordbotten, and M. Fernø. Physical variability in meter-scale laboratory CO<span class="math inline">\(_2\)</span> injections in faulted geometries. <em>Transport in Porous Media</em>, 151:1169–1197, 2024. <a href="https://doi.org/10.1007/s11242-023-02047-8">DOI</a></p></li>
+<li><p><strong>Lluís Saló-Salgado</strong>, M. Haugen, K. Eikehaug, M. Fernø, J. M. Nordbotten, and R. Juanes. Direct comparison of numerical simulations and experiments of CO<span class="math inline">\(_2\)</span> injection and migration in geologic media: Value of local data and forecasting capability. <em>Transport in Porous Media</em>, 151:1199–1240, 2024. <a href="https://doi.org/10.1007/s11242-023-01972-y">DOI</a></p></li>
+</ul>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">2023</h2>
+<ul>
+<li><p>J. A. Silva, <strong>Lluís Saló-Salgado</strong>, J. Patterson, G. R. Dasari, and R. Juanes. Assessing the viability of CO<span class="math inline">\(_2\)</span> storage in offshore formations of the Gulf of Mexico at a scale relevant for climate-change mitigation. <em>International Journal of Greenhouse Gas Control</em>, 126(6):103884, 2023. <a href="https://doi.org/10.1016/j.ijggc.2023.103884">DOI</a></p></li>
+<li><p><strong>Lluís Saló-Salgado</strong>, J. S. Davis, and R. Juanes. Fault permeability from stochastic modeling of clay smears. <em>Geology</em>, 51(1):91–95, 2023. <a href="https://doi.org/10.1130/G50739.1">DOI</a></p></li>
+</ul>
+</section>
+<section id="before-2023" class="level2">
+<h2 class="anchored" data-anchor-id="before-2023">Before 2023</h2>
+<ul>
+<li><p>J. A. Gili, R. Ruiz-Carulla, G. Matas, J. Moya, A. Prades, J. Corominas, N. Lantada, M.-A. Núñez Andrés, F. Buill, C. Puig, J. Martínez-Bofill, <strong>Lluís Saló</strong>, and O. Mavrouli. Rockfalls: analysis of the block fragmentation through field experiments. <em>Landslides</em>, 2022. <a href="https://doi.org/10.1007/s10346-021-01837-9">DOI</a></p></li>
+<li><p><strong>Lluís Saló</strong>, J. Corominas, N. Lantada, G. Matas, A. Prades, and R. Ruiz-Carulla. Seismic energy analysis as generated by impact and fragmentation of single-block experimental rockfalls. <em>Journal of Geophysical Research: Earth Surface</em>, 123(6):1450–1478, 2018. <a href="https://doi.org/10.1029/2017JF004374">DOI</a></p></li>
+<li><p><strong>Lluís Saló</strong>, T. Frontera, X. Goula, L. G. Pujades, and A. Ledesma. Earthquake static stress transfer in the 2013 Gulf of Valencia (Spain) seismic sequence. <em>Solid Earth</em>, 8:857–857, 2017. <a href="https://doi.org/10.5194/se-8-857-2017">DOI</a></p></li>
+</ul>
+</section>
+<section id="other-writing" class="level2">
+<h2 class="anchored" data-anchor-id="other-writing">Other Writing</h2>
+<ul>
+<li><p><strong>Lluís Saló-Salgado</strong>. Numerical Modeling of Geologic Carbon Dioxide Storage in Faulted Siliciclastic Settings. PhD Thesis, Massachusetts Institute of Technology, 2024. <a href="https://dspace.mit.edu/handle/1721.1/153718">MIT DSpace</a></p></li>
+<li><p><strong>Lluís Saló-Salgado</strong>, A. Acocella, I. Arzuaga García, S. El Mousadik, and A. Zvinavashe. Managing up: how to communicate effectively with your PhD adviser. <em>Nature</em>, 2021. <a href="https://doi.org/10.1038/d41586-021-03703-z">DOI</a></p></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
+<footer class="custom-footer" id="custom-footer">
+  <div class="footer-bg"></div>
+  <div class="footer-content">
+
+    <div class="footer-left">
+    <strong>Office Address</strong><br><br>
+      Strong Hall, Room 602<br>
+      Department of Earth, Environmental, and Planetary Sciences (EEPS)<br>
+      College of Arts and Sciences<br>
+      The University of Tennessee, Knoxville<br>
+      1621 Cumberland Avenue, Knoxville, TN 37916<br>
+    </div>
+
+    <div class="footer-center">
+      <span>Developed with</span>
+      <a href="https://claude.ai" target="_blank">
+        <img src="./images/Claude_logo.png" alt="Claude" class="footer-claude-logo">
+      </a>
+      <span>, </span>
+      <a href="https://quarto.org" target="_blank">
+        <img src="./images/quarto-logo.png" alt="Quarto" class="footer-quarto-logo">
+      </a>
+      <span> &amp; </span>
+      <a href="https://github.com" target="_blank">
+        <img src="./images/github-logo.png" alt="GitHub" class="footer-github-logo">
+      </a>
+    </div>
+
+    <div class="footer-right">
+      <strong>Connect</strong><br><br>
+      <a href="mailto:salo@utk.edu"><i class="bi bi-envelope-fill"></i> Email</a><br>
+      <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewbox="0 0 24 24" style="vertical-align: -2px; margin-right: 4px;">
+          <path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"></path>
+        </svg>
+        Google Scholar
+      </a><br>
+      <a href="https://orcid.org/0000-0003-3339-538X" target="_blank"><i class="bi bi-person-badge"></i> ORCID</a><br>
+      <a href="https://www.linkedin.com/in/lluis-salo/" target="_blank"><i class="bi bi-linkedin"></i> LinkedIn</a><br>
+      <a href="https://www.researchgate.net/profile/Lluis-Salo-Salgado" target="_blank"><i class="bi bi-book"></i> ResearchGate</a>
+    </div>
+
+  </div>
+</footer>
+
+<script>
+function fixFooter() {
+  var f = document.getElementById('custom-footer');
+  if (!f) return;
+  f.style.marginLeft = '0px';
+  f.style.width = '100%';
+  void f.offsetWidth;
+  var rect = f.getBoundingClientRect();
+  f.style.width = window.innerWidth + 'px';
+  f.style.marginLeft = (-rect.left) + 'px';
+}
+
+function stickyFooter() {
+  var f = document.getElementById('custom-footer');
+  if (!f) return;
+  f.style.marginTop = '0px';
+  f.style.marginBottom = '0px';
+  void f.offsetWidth;
+  
+  var footerRect = f.getBoundingClientRect();
+  var footerBottom = footerRect.bottom;
+  var windowHeight = window.innerHeight;
+  
+  if (footerBottom < windowHeight) {
+    var gap = windowHeight - footerBottom;
+    f.style.marginTop = gap + 'px';
+  }
+  
+  void f.offsetWidth;
+  footerRect = f.getBoundingClientRect();
+  if (footerRect.bottom < windowHeight) {
+    f.style.paddingBottom = (windowHeight - footerRect.bottom) + 'px';
+  } else {
+    f.style.paddingBottom = '0px';
+  }
+}
+
+fixFooter();
+stickyFooter();
+
+window.addEventListener('load', function() {
+  fixFooter();
+  stickyFooter();
+});
+
+setTimeout(function() {
+  fixFooter();
+  stickyFooter();
+}, 500);
+
+var resizeTimer;
+window.addEventListener('resize', function() {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(function() {
+    fixFooter();
+    stickyFooter();
+  }, 50);
+});
+
+if (window.ResizeObserver) {
+  new ResizeObserver(function() {
+    fixFooter();
+    stickyFooter();
+  }).observe(document.body);
+}
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -560,25 +753,6 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-<p>SALO Lab — University of Tennessee, Knoxville</p>
-</div>   
-    <div class="nav-footer-center">
-      &nbsp;
-    </div>
-    <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item">
-    <a class="nav-link" href="https://orcid.org/0000-0003-3339-538X">
-<p>ORCID</p>
-</a>
-  </li>  
-</ul>
-    </div>
-  </div>
-</footer>
 
 
 
