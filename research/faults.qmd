@@ -1,0 +1,32 @@
+---
+title: "Fault Zone Characterization & Modeling"
+---
+
+## Overview
+
+Accurate prediction of subsurface phenomena and safety in subsurface technologies often requires a quantitative understanding of the hydraulic and mechanical behavior of geologic faults. This is difficult to achieve, given the heterogeneous nature of faults and our limited ability to image them and measure their physical properties. Current models of hydraulic and mechanical properties of fault zones are strong simplifications of reality, and are often based on empirical correlations derived from laboratory tests.
+
+Our work in this area has (so far) focused on normal faults in soft siliciclastic basins, with the goal of quantifying uncertainty in fault core permeability and anisotropy. This geologic setting is of particular interest for geologic carbon storage, given the ability of poorly lithified sediments to accommodate significant deformation ductilely.
+
+## Research Questions
+
+- How does fault displacement, clay content, and burial depth control clay smear continuity and fault permeability?
+- Can we quantify fault seal capacity and its uncertainty from readily available geologic data?
+- How do single-phase fault properties translate to multiphase flow behavior (e.g., capillary entry pressure, relative permeability)?
+
+## Selected Publications
+
+- H. Lu, **Lluís Saló-Salgado**, and R. Juanes. Lithological Controls on the Permeability of Geologic Faults: Surrogate Modeling and Sensitivity Analysis, 2025. In review. [Preprint](https://doi.org/10.48550/arXiv.2511.09674)
+
+- **Lluís Saló-Salgado**, J. S. Davis, and R. Juanes. Fault permeability from stochastic modeling of clay smears. *Geology*, 51(1):91–95, 2023. [DOI](https://doi.org/10.1130/G50739.1) · [Supplement: Description of PREDICT](https://doi.org/10.1130/GEOL.S.21397161) · [Code](https://github.com/lsalo/predict)
+
+## Gallery
+
+```{=html}
+<div class="banner-carousel research-carousel">
+  <img src="/images/research/faults/slide-1.png" class="banner-slide slide-1" />
+  <img src="/images/research/faults/slide-2.jpg" class="banner-slide slide-2" />
+  <img src="/images/research/faults/slide-3.png" class="banner-slide slide-3" />
+  <img src="/images/research/faults/slide-4.png" class="banner-slide slide-4" />
+</div>
+```

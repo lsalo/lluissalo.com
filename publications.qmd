@@ -11,6 +11,8 @@ For the most up-to-date list, see my <a href="https://scholar.google.com/citatio
 
 ## In Review
 
+- **Lluís Saló-Salgado**, J. A. Silva, A. Plesch, F. D. Wolfe, John H. Shaw, and Ruben Juanes. Stress state, subsidence, and faulting in the Wilmington Oil Field, California: a multiphase flow--geomechanics modeling assessment (1936--2020), 2026.
+
 - H. Lu, **Lluís Saló-Salgado**, and R. Juanes. Sensitivity analysis and surrogate modeling for lithological controls on fault permeability, 2025. [Preprint](https://doi.org/10.48550/arXiv.2511.09674)
 
 ## 2026
