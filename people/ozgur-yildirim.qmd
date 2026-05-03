@@ -1,0 +1,32 @@
+---
+title: "L. T. Ozgur Yildirim"
+role: "Postdoctoral Researcher"
+group: "Postdocs"
+order: 10
+image: "/images/people/ozgur-yildirim.jpeg"
+---
+
+```{=html}
+<div class="profile-header">
+  <div class="profile-photo">
+    <img src="/images/people/ozgur-yildirim.jpeg" alt="L. T. Ozgur Yildirim">
+  </div>
+  <div class="profile-info">
+    <p class="profile-title">Postdoctoral Research Associate</p>
+    <p class="profile-affiliations">
+      Department of Earth, Environmental, and Planetary Sciences (EEPS)<br>
+      The University of Tennessee, Knoxville
+    </p>
+    <p class="profile-links">
+      <a href="mailto:lyildiri@utk.edu"><i class="bi bi-envelope-fill"></i> lyildiri@utk.edu</a> · 
+      <a href="https://scholar.google.com/citations?user=oFj5AYoAAAAJ&hl=en" target="_blank">Google Scholar</a> · 
+      <a href="https://www.linkedin.com/in/ltozguryildirim/" target="_blank">LinkedIn</a>
+    </p>
+  </div>
+</div>
+```
+
+## Bio
+Ozgur Yildirim is a geological and petroleum engineer with 15 years of experience across academia, industry, and national laboratory. He is currently a Postdoctoral Research Associate at the University of Tennessee, Knoxville, where he focuses on subsurface energy systems, including fault evolution and coupled deformation–fluid flow processes. He earned his Ph.D. in Energy and Mineral Engineering from Penn State, where his research centered on CO$_2$ storage and geothermal energy resources in the Marcellus shale.
+
+His expertise spans petrophysics, reservoir characterization, geological and thermal modeling, and carbon capture, utilization, and storage (CCUS). He has authored multiple peer-reviewed publications and has professional experience as a petrophysicist with Turkish Petroleum, as well as research experience at Los Alamos National Laboratory. In addition to his domain expertise, he is skilled in data analytics and machine learning, applying computational methods to complex subsurface challenges. 

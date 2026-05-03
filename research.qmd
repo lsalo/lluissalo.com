@@ -7,11 +7,33 @@ Our group develops computational and experimental tools to simulate, assess, and
 ::: {.research-card-wide}
 ::: {.grid}
 ::: {.g-col-6}
-[![](images/research/faults.png)](research/faults.qmd)
+```{=html}
+<a href="research/faults.qmd">
+  <img src="/images/research/faults.png" style="height: 350px; width: 100%; object-fit: contain; border-radius: 6px;">
+</a>
+```
 :::
 ::: {.g-col-6}
 ### [Fault Zone Characterization & Modeling](research/faults.qmd)
-Stochastic modeling of fault zone architecture, clay smear prediction, and experimental characterization of fault rock hydraulic and mechanical properties.
+
+Faults are ubiquitous geologic discontinuities that exert a first-order control on subsurface fluid flow, yet their hydraulic and mechanical properties remain poorly constrained. Our group develops stochastic and physics-based frameworks to model fault zone architecture and its impact on hydraulic properties, combining outcrop observations, subsurface data, and numerical modeling.
+
+[Read more →](research/faults.qmd)
+:::
+:::
+:::
+
+::: {.research-card-wide}
+::: {.grid}
+::: {.g-col-6}
+[![](images/research/co2_wrr_sc1.jpg)](research/co2-storage.qmd)
+:::
+::: {.g-col-6}
+### [Geologic CO$_2$ Storage](research/co2-storage.qmd)
+
+Geologic carbon dioxide storage is a key technology for climate change mitigation, but its large-scale deployment requires thorough understanding of subsurface risks. Our group models CO$_2$ migration in faulted formations, validates simulations against laboratory and field data, and assesses storage capacity and containment at scales relevant for climate impact.
+
+[Read more →](research/co2-storage.qmd)
 :::
 :::
 :::
@@ -22,7 +44,7 @@ Stochastic modeling of fault zone architecture, clay smear prediction, and exper
 [![](images/research/experiments.png)](research/intermediate-experiments.qmd)
 :::
 ::: {.g-col-6}
-### [Intermediate-Scale Experiments in Faulted Settings](research/intermediate-experiments.qmd)
+### [Intermediate-Scale Experiments](research/intermediate-experiments.qmd)
 Laboratory experiments in porous media, including CO$_2$ injection in faulted geometries and sandbox models of faulting and fluid flow.
 :::
 :::
@@ -34,7 +56,7 @@ Laboratory experiments in porous media, including CO$_2$ injection in faulted ge
 [![](images/research/induced-seismicity.png)](research/induced-seismicity.qmd)
 :::
 ::: {.g-col-6}
-### [Fault-related Hazards in Subsurface Energy](research/induced-seismicity.qmd)
+### [Geohazards in Subsurface Energy Systems](research/induced-seismicity.qmd)
 Multiphysics modeling of injection-induced earthquakes and development of risk assessment workflows for subsurface operations.
 :::
 :::
@@ -43,35 +65,11 @@ Multiphysics modeling of injection-induced earthquakes and development of risk a
 ::: {.research-card-wide}
 ::: {.grid}
 ::: {.g-col-6}
-[![](images/research/co2-faults.png)](research/co2-faults.qmd)
+[![](images/research/other.png)](research/other.qmd)
 :::
 ::: {.g-col-6}
-### [CO$_2$ Storage](research/co2-faults.qmd)
-Understanding and modeling fault-related CO$_2$ migration risk during and after geologic carbon storage, from individual faults to field-scale assessments.
-:::
-:::
-:::
-
-::: {.research-card-wide}
-::: {.grid}
-::: {.g-col-6}
-[![](images/research/hydrogen.png)](research/hydrogen-storage.qmd)
-:::
-::: {.g-col-6}
-### [Hydrogen Storage](research/hydrogen-storage.qmd)
+### [Emerging Energy Research](research/other.qmd)
 Evaluating feasibility and risks of underground hydrogen storage in depleted reservoirs, including pore pressure evolution and fault stability.
-:::
-:::
-:::
-
-::: {.research-card-wide}
-::: {.grid}
-::: {.g-col-6}
-[![](images/research/env-seismology.png)](research/natural-hazards.qmd)
-:::
-::: {.g-col-6}
-### [Natural Hazards & Seismology](research/natural-hazards.qmd)
-Environmental seismology & rockfalls.
 :::
 :::
 :::
@@ -80,13 +78,11 @@ Environmental seismology & rockfalls.
 
 We gratefully acknowledge the support of our research sponsors, without whom our research would not be possible.
 
-```{=html}
 <div class="sponsor-logos">
-  <a href="https://corporate.exxonmobil.com" target="_blank">
-    <img src="/images/sponsors/exxonmobil.png" alt="ExxonMobil">
+  <a href="https://corporate.exxonmobil.com" target="_blank" style="margin-right: 1rem;">
+    <img src="/images/sponsors/exxonmobil.png" alt="ExxonMobil" style="height: 30px;">
   </a>
   <a href="https://www.conservation.ca.gov" target="_blank">
-    <img src="/images/sponsors/ca-doc.png" alt="California Department of Conservation">
+    <img src="/images/sponsors/ca-doc.png" alt="California Department of Conservation" style="height: 60px;">
   </a>
 </div>
-```

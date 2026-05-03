@@ -1,0 +1,26 @@
+---
+title: "Rubén Vidal Montes"
+role: "Postdoctoral Researcher"
+group: "Postdocs"
+order: 10
+image: "/images/people/ruben-vidal.jpeg"
+---
+
+```{=html}
+<div class="profile-header">
+  <div class="profile-photo">
+    <img src="/images/people/ruben-vidal.jpeg" alt="Rubén Vidal Montes">
+  </div>
+  <div class="profile-info">
+    <p class="profile-title">Postdoctoral Research Associate</p>
+    <p class="profile-affiliations">
+      Department of Earth, Environmental, and Planetary Sciences (EEPS)<br>
+      The University of Tennessee, Knoxville
+    </p>
+    <p class="profile-links">
+      <!-- <a href="mailto:lyildiri@utk.edu"><i class="bi bi-envelope-fill"></i> lyildiri@utk.edu</a> ·  -->
+      <a href="https://www.linkedin.com/in/rubén-vidal-montes-3595627b/" target="_blank">LinkedIn</a>
+    </p>
+  </div>
+</div>
+```

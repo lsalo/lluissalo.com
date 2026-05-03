@@ -3,13 +3,13 @@ title: "Lluís Saló-Salgado"
 role: "Principal Investigator"
 group: "PI"
 order: 1
-image: "/images/people/lluis-salo.jpg"
+image: "/images/people/lluis-salo-2.jpg"
 ---
 
 ```{=html}
 <div class="profile-header">
   <div class="profile-photo">
-    <img src="/images/people/lluis-salo.jpg" alt="Lluís Saló-Salgado">
+    <img src="/images/people/lluis-salo-2.jpg" alt="Lluís Saló-Salgado">
   </div>
   <div class="profile-info">
      <!-- <h1>Lluís Saló-Salgado, PhD</h1> -->
@@ -23,7 +23,7 @@ image: "/images/people/lluis-salo.jpg"
     <p class="profile-links">
       <a href="mailto:salo@utk.edu"><i class="bi bi-envelope-fill"></i> salo@utk.edu</a> · 
       <a href="https://scholar.google.com/citations?user=bRhJjf4AAAAJ" target="_blank">Google Scholar</a> · 
-      <a href="https://orcid.org/0000-0003-3339-538X" target="_blank">ORCID</a> · 
+      <a href="https://www.linkedin.com/in/lluis-salo/" target="_blank">LinkedIn</a> ·
       <a href="https://github.com/lsalo" target="_blank">GitHub</a> · 
       <a href="/data/Salo-Salgado_CV.pdf" target="_blank">Full CV (PDF)</a>
     </p>
