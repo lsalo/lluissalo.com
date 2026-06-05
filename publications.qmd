@@ -11,7 +11,9 @@ For the most up-to-date list, see my <a href="https://scholar.google.com/citatio
 
 ## In Review
 
-- **Lluís Saló-Salgado**, J. A. Silva, A. Plesch, F. D. Wolfe, John H. Shaw, and Ruben Juanes. Stress state, subsidence, and faulting in the Wilmington Oil Field, California: a multiphase flow--geomechanics modeling assessment (1936--2020), 2026.
+- H. Lu, **Lluís Saló-Salgado**, Y.-T. Chou, E. Haghighat, and R. Juanes. Learning and inferring multiphase flow dynamics in porous media using scientific machine learning: application to the "FluidFlower" CO$_2$ injection experiment, 2026. [Preprint](https://doi.org/10.48550/arXiv.2606.05448) 
+
+- **Lluís Saló-Salgado**, J. A. Silva, A. Plesch, F. D. Wolfe, John H. Shaw, and Ruben Juanes. Stress state, subsidence, and faulting in the Wilmington Oil Field, California: a multiphase flow--geomechanics modeling assessment (1936--2020), 2026. [Preprint](https://doi.org/10.48550/arXiv.2605.16711)
 
 - H. Lu, **Lluís Saló-Salgado**, and R. Juanes. Sensitivity analysis and surrogate modeling for lithological controls on fault permeability, 2025. [Preprint](https://doi.org/10.48550/arXiv.2511.09674)
 

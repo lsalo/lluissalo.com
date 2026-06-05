@@ -1,8 +1,4 @@
 ---
-title: "CO$_2$ Migration along Faults"
----
-
----
 title: "Geologic CO$_2$ Storage"
 ---
 

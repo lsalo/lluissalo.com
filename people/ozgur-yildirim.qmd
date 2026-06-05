@@ -3,13 +3,13 @@ title: "L. T. Ozgur Yildirim"
 role: "Postdoctoral Researcher"
 group: "Postdocs"
 order: 10
-image: "/images/people/ozgur-yildirim.jpeg"
+image: "/images/people/ozgur-yildirim.png"
 ---
 
 ```{=html}
 <div class="profile-header">
   <div class="profile-photo">
-    <img src="/images/people/ozgur-yildirim.jpeg" alt="L. T. Ozgur Yildirim">
+    <img src="/images/people/ozgur-yildirim.png" alt="L. T. Ozgur Yildirim">
   </div>
   <div class="profile-info">
     <p class="profile-title">Postdoctoral Research Associate</p>

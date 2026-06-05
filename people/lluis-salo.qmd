@@ -24,6 +24,7 @@ image: "/images/people/lluis-salo-2.jpg"
       <a href="mailto:salo@utk.edu"><i class="bi bi-envelope-fill"></i> salo@utk.edu</a> · 
       <a href="https://scholar.google.com/citations?user=bRhJjf4AAAAJ" target="_blank">Google Scholar</a> · 
       <a href="https://www.linkedin.com/in/lluis-salo/" target="_blank">LinkedIn</a> ·
+      <a href="https://www.researchgate.net/profile/Lluis-Salo-Salgado" target="_blank">ResearchGate</a> ·
       <a href="https://github.com/lsalo" target="_blank">GitHub</a> · 
       <a href="/data/Salo-Salgado_CV.pdf" target="_blank">Full CV (PDF)</a>
     </p>

@@ -1,0 +1,36 @@
+---
+title: "Geohazards in Subsurface Energy Systems"
+---
+
+## Overview
+
+Subsurface energy operations — including geologic CO$_2$ and hydrogen storage, geothermal energy, and hydrocarbon production — involve the injection and/or withdrawal of large fluid volumes from the subsurface. These operations change pore pressure and effective stress in the host rock and surrounding formations, and can drive a range of geohazards, including fault reactivation and induced seismicity, ground deformation, and loss of containment.
+
+Our group uses modeling tools that couple subsurface physics to investigate these hazards. We are particularly interested in how fault zone heterogeneity, stress state, and coupled processes drive long-term geomechanical deformation and fault stability. In parallel, we contribute to the development of risk assessment workflows that translate model predictions into actionable information for operators and regulators.
+
+## Research Questions
+
+- How do fault zone architecture and lithological heterogeneity control fault stability?
+- What is the impact of the background stress state on geomechanical deformation?
+- How can we evaluate the impact of geological uncertainties on the quantities of interest in subsurface energy technologies?
+
+## Selected Publications
+
+- **Lluís Saló-Salgado**, J. A. Silva, A. Plesch, F. D. Wolfe, J. H. Shaw, and R. Juanes. Stress state, subsidence, and faulting in the Wilmington Oil Field, California: a multiphase flow–geomechanics modeling assessment (1936–2020), 2026. In review. [Preprint](https://doi.org/10.48550/arXiv.2605.16711)
+
+- H. Lu, **Lluís Saló-Salgado**, Y. M. Marzouk, and R. Juanes. Uncertainty quantification of fluid leakage and fault instability in geologic CO$_2$ storage. *Water Resources Research*, 61(10):e2024WR039275, 2025. [DOI](https://doi.org/10.1029/2024WR039275)
+
+- J. A. Silva, **Lluís Saló-Salgado**, J. Patterson, G. R. Dasari, and R. Juanes. Assessing the viability of CO$_2$ storage in offshore formations of the Gulf of Mexico at a scale relevant for climate-change mitigation. *International Journal of Greenhouse Gas Control*, 126(6):103884, 2023. [DOI](https://doi.org/10.1016/j.ijggc.2023.103884)
+
+- **Lluís Saló**, T. Frontera, X. Goula, L. G. Pujades, and A. Ledesma. Earthquake static stress transfer in the 2013 Gulf of Valencia (Spain) seismic sequence. *Solid Earth*, 8:857–857, 2017. [DOI](https://doi.org/10.5194/se-8-857-2017)
+
+## Gallery
+
+```{=html}
+<div class="banner-carousel research-carousel">
+  <img src="/images/research/induced-seismicity/slide-1.jpg" class="banner-slide slide-1" />
+  <img src="/images/research/induced-seismicity/slide-2.jpg" class="banner-slide slide-2" />
+  <img src="/images/research/induced-seismicity/slide-3.jpg" class="banner-slide slide-3" />
+  <img src="/images/research/induced-seismicity/slide-4.png" class="banner-slide slide-4" />
+</div>
+```

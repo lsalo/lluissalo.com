@@ -6,14 +6,14 @@ Our group develops computational and experimental tools to simulate, assess, and
 
 ::: {.research-card-wide}
 ::: {.grid}
-::: {.g-col-6}
+::: {.g-col-7}
 ```{=html}
 <a href="research/faults.qmd">
   <img src="/images/research/faults.png" style="height: 350px; width: 100%; object-fit: contain; border-radius: 6px;">
 </a>
 ```
 :::
-::: {.g-col-6}
+::: {.g-col-5}
 ### [Fault Zone Characterization & Modeling](research/faults.qmd)
 
 Faults are ubiquitous geologic discontinuities that exert a first-order control on subsurface fluid flow, yet their hydraulic and mechanical properties remain poorly constrained. Our group develops stochastic and physics-based frameworks to model fault zone architecture and its impact on hydraulic properties, combining outcrop observations, subsurface data, and numerical modeling.
@@ -25,10 +25,10 @@ Faults are ubiquitous geologic discontinuities that exert a first-order control 
 
 ::: {.research-card-wide}
 ::: {.grid}
-::: {.g-col-6}
+::: {.g-col-7}
 [![](images/research/co2_wrr_sc1.jpg)](research/co2-storage.qmd)
 :::
-::: {.g-col-6}
+::: {.g-col-5}
 ### [Geologic CO$_2$ Storage](research/co2-storage.qmd)
 
 Geologic carbon dioxide storage is a key technology for climate change mitigation, but its large-scale deployment requires thorough understanding of subsurface risks. Our group models CO$_2$ migration in faulted formations, validates simulations against laboratory and field data, and assesses storage capacity and containment at scales relevant for climate impact.
@@ -40,39 +40,18 @@ Geologic carbon dioxide storage is a key technology for climate change mitigatio
 
 ::: {.research-card-wide}
 ::: {.grid}
-::: {.g-col-6}
-[![](images/research/experiments.png)](research/intermediate-experiments.qmd)
-:::
-::: {.g-col-6}
-### [Intermediate-Scale Experiments](research/intermediate-experiments.qmd)
-Laboratory experiments in porous media, including CO$_2$ injection in faulted geometries and sandbox models of faulting and fluid flow.
-:::
-:::
-:::
-
-::: {.research-card-wide}
-::: {.grid}
-::: {.g-col-6}
+::: {.g-col-7}
 [![](images/research/induced-seismicity.png)](research/induced-seismicity.qmd)
 :::
-::: {.g-col-6}
+::: {.g-col-5}
 ### [Geohazards in Subsurface Energy Systems](research/induced-seismicity.qmd)
-Multiphysics modeling of injection-induced earthquakes and development of risk assessment workflows for subsurface operations.
+Subsurface energy operations involve the injection and/or withdrawal of fluids from the subsurface. These operations change the effective stress in the reservoir and surrounding formations, and can drive a range of geohazards, including fault reactivation and induced seismicity. Our group uses modeling tools that couple subsurface physics to investigate these hazards and develop risk assessment workflows.
+
+[Read more →](research/induced-seismicity.qmd)
 :::
 :::
 :::
 
-::: {.research-card-wide}
-::: {.grid}
-::: {.g-col-6}
-[![](images/research/other.png)](research/other.qmd)
-:::
-::: {.g-col-6}
-### [Emerging Energy Research](research/other.qmd)
-Evaluating feasibility and risks of underground hydrogen storage in depleted reservoirs, including pore pressure evolution and fault stability.
-:::
-:::
-:::
 
 ### Sponsors
 

@@ -8,23 +8,21 @@ We are looking for applicants interested in one or more of the following areas:
 
 - **Faults and fluid flow**: Characterization and modeling of fault zone architecture, evolution, and hydromechanical behavior; treatment of discontinuities in simulation models; multiscale characterization of fault and fracture properties; mineralization and groundwater processes
 - **Subsurface energy**: Understanding and mitigation of induced seismicity; risk assessment workflows for subsurface operations; flow and transport in engineered geosystems; regional studies of geologic suitability. Applications include geologic hydrogen storage, geothermal energy, and CO₂ sequestration
-- We also encourage research directions beyond those listed above — reach out!
 
 ### What we look for
 
 - A solid background in one or more STEM disciplines
 - Interest in working on applied geoscience and geoengineering problems
 - Computer programming experience or a strong interest to learn
-- *For postdocs and grad students only*: Previous research exposure involving computer modeling, experiments, and/or field work 
 - Self-driven personality and motivation to learn and grow in a challenging, interdisciplinary, and multicultural environment
+- *For postdocs and grad students only*: Previous research exposure involving computer modeling, experiments, and/or field work 
 
 
 ## Postdoctoral Researchers
+Ideal candidates have a PhD in geoscience, engineering, or a related field, and experience in computational or experimental research related to our group's interests. If you are interested, please send your CV and a brief cover letter (one page) including research interests, background, and contact information for 2–3 references to [Dr. Lluís Saló-Salgado](mailto:salo@utk.edu).
 
-We periodically have openings for postdoctoral researchers. Ideal candidates have a PhD in geoscience, engineering, or a related field, and experience in computational or experimental research related to our group's interests.
-
-If you are interested, please send your CV and a brief cover letter (one page) including research interests, background, and contact information for 2–3 references to [Dr. Lluís Saló-Salgado](mailto:salo@utk.edu).
-
+### Current openings
+No openings available at the moment.
 
 ## Graduate Students
 
@@ -34,7 +32,7 @@ Graduate students can apply through the [UTK Graduate School](https://gradschool
 - [Civil and Environmental Engineering (CEE)](https://cee.utk.edu/graduate/)
 - [Energy Science and Engineering (Bredesen Center)](https://bredesencenter.utk.edu/energy-science/)
 
-Admission offers are anticipated to cover tuition, health insurance, and provide a monthly stipend. Please *do check* the respective program websites for department-specific requirements and application deadlines.
+Admission offers cover tuition, health insurance, and provide a monthly stipend. Please *do check* the respective program websites for department-specific requirements and application deadlines.
 
 ```{=html}
 <div class="custom-callout">
@@ -43,7 +41,7 @@ Admission offers are anticipated to cover tuition, health insurance, and provide
     <span class="custom-callout-title">Prospective students</span>
   </div>
   <div class="custom-callout-body">
-    If you are interested in joining the SALO Lab, I encourage you to email me at <a href="mailto:salo@utk.edu">salo@utk.edu</a> with a <em>brief</em> description of your background and research interests, along with your CV. Please, do <em>not</em> use AI to write this email. If I do not reply within two or three weeks, you are welcome to send me a follow-up email. I may not be able to respond to all emails, but that does <em>not</em> mean that I am not interested in working with you &mdash; it could simply mean that I am behind on email. I typically reply to prospective graduate student emails during admissions season only (August&ndash;December).
+    If you are interested in joining the SALO Lab, I encourage you to email me at <a href="mailto:salo@utk.edu">salo@utk.edu</a> with a <em>brief</em> description of your background and research interests, along with your CV. If I do not reply within two or three weeks, you are welcome to send me a follow-up email. I may not be able to respond to all emails, but that does <em>not</em> mean that I am not interested in working with you &mdash; it could simply mean that I am behind on email. I typically reply to prospective graduate student emails during admissions season only (August&ndash;November).
   </div>
 </div>
 ```

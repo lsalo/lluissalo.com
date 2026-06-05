@@ -19,8 +19,8 @@ toc: false
 Our group uses a variety of approaches to simulate, assess, and understand geosystems. In particular, we combine physics-based and data-driven modeling with laboratory experiments to address fundamental and applied research questions at the intersection of geoscience, subsurface energy, and the environment. We are based in the Department of Earth, Environmental, and Planetary Sciences at the University of Tennessee, Knoxville, where we regularly interact with the Department of Civil and Environmental Engineering and the Bredesen Center for Interdisciplinary Research and Graduate Education.
 
 ## Latest News
-- **May 2026** — Rubén Vidal Montes joins the group as a Postdoctoral Researcher. Welcome!
-- **Apr 2026** — Hannah Lu's paper accepted in *Stochastic Environmental Research and Risk Assessment*. 
+<!-- - **Jun 2026** — Hannah Lu's paper accepted in *Stochastic Environmental Research and Risk Assessment*. --> 
+- **Jun 2026** — Rubén Vidal Montes joins the group as a Postdoctoral Researcher. Welcome!
 - **Mar 2026** — L. T. Ozgur Yildirim joins the group as a Postdoctoral Researcher. Welcome!
 <!-- - **Jan 2026** — Lluís joins UTK as the Barbara McDonald Assistant Professor in Energy Transition. ![](images/news/utk-join.jpg){.news-img} -->
 
@@ -48,7 +48,7 @@ Development of new tools to study fault zone evolution and improve their charact
 ```
 
 ### Geologic Carbon Dioxide Sequestration (GCS)
-Mitigation of environmental risks associated with GCS, with particular emphasis on fluid migration through faults and induced seismicity.
+Mitigation of environmental risks associated with GCS, with particular emphasis on fluid migration through faults.
 
 [Learn more →](research.qmd)
 :::
@@ -58,8 +58,8 @@ Mitigation of environmental risks associated with GCS, with particular emphasis 
 ::: {.card}
 ![](images/research/theme-3.jpg){.card-img-top}
 
-### Other Energy & Geohazards Research
-Induced seismicity, hydrogen storage, environmental seismology & rockfalls...
+### Geohazards in Subsurface Energy Systems
+Multiphysics modeling of fault stability and development of risk assessment workflows for subsurface operations.
 
 [Learn more →](research.qmd)
 :::
