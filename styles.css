@@ -1,0 +1,347 @@
+/* ---- Page width ---- */
+div#quarto-content {
+  display: block !important;
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 0 3rem;
+}
+
+/* ---- UTK orange navbar ---- */.navbar {
+  background-color: #FF8200 !important;
+}.navbar.navbar-brand,.navbar.nav-link,.navbar.navbar-nav.nav-link {
+  color: #000000 !important;
+}.navbar.nav-link:hover,.navbar.navbar-nav.nav-link:hover {
+  color: #000000 !important;
+}
+
+/* UTK logo size in navbar */.navbar-logo {
+  height: 60px !important;
+  max-height: 60px !important;
+  width: auto !important;
+}.navbar-brand-logo {
+  margin-right: 0.5rem;
+}.navbar >.container-fluid,.navbar >.container-xxl {
+  min-height: 60px;
+}.navbar.navbar-expand-lg {
+  padding-top: 0.0rem !important;
+  padding-bottom: 0.0rem !important;
+}
+
+/* Search icon color */.navbar.bi-search,.navbar.navbar-search {
+  color: #000000 !important;
+}
+
+/* ---- Global link color ---- */
+a {
+  color: #FF8200;
+}
+
+a:hover {
+  color: #E07000;
+}
+
+/* ---- LaTeX-style font everywhere ---- */
+body {
+  font-family: 'Computer Modern Serif', Georgia, serif !important;
+  font-size: 1.2rem;
+  -webkit-text-stroke: 0.3px;
+}
+
+/* ---- Increase vertical spacing between page sections ---- */
+main.content h2 {
+  margin-top: rem !important;
+}
+
+/* ---- Banner carousel ---- */.banner-carousel {
+  position: relative;
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+  margin: 0;
+}.banner-slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  opacity: 0;
+  animation: carousel-fade 48s infinite;
+}.slide-1 { animation-delay: 0s; }.slide-2 { animation-delay: 12s; }.slide-3 { animation-delay: 24s; }.slide-4 { animation-delay: 36s; }
+
+@keyframes carousel-fade {
+  0%   { opacity: 0; }
+  3%   { opacity: 1; }
+  23%  { opacity: 1; }
+  28%  { opacity: 0; }
+  100% { opacity: 0; }
+}
+
+/* ---- Banner title below carousel ---- */.banner-title {
+  text-align: center;
+  padding: 1.5rem 2rem 1rem;
+  margin-bottom: 2rem;
+}.banner-title h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.8rem;
+  color: #333;
+}.utk-logo {
+  height: 150px;
+  width: auto;
+}
+
+/* ---- UTK orange accent letters ---- */.accent {
+  color: #FF8200;
+}
+
+/* ---- Research theme cards ---- */.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 100%;
+  padding-bottom: 1rem;
+}.card card-img-top {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}.card h3 {
+  padding: 0.5rem 1rem 0;
+  font-size: 1.3rem;
+}.card p {
+  padding: 0 1rem;
+  font-size: 1.0rem;
+}.card a {
+  padding: 0 1rem;
+  font-size: 0.9rem;
+  color: #FF8200;
+}.card a:hover {
+  color: #E07000;
+}
+
+/* ---- Card video embed ---- */.card-video {
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+}.card-video iframe {
+  width: 100%;
+  height: 100%;
+}
+
+/* ---- News images ---- */.news-img {
+  height: 80px;
+  width: auto;
+  border-radius: 4px;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
+
+/* ---- People cards ---- */
+img.thumbnail-image.card-img {
+  width: 100% !important;
+  height: auto !important;
+  max-height: 300px !important;
+  object-fit: contain !important;
+}.quarto-listing-container-grid {
+  max-width: 1000px !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+h5.listing-title {
+  color: #FF8200 !important;
+  -webkit-text-stroke: 0.8px;
+}
+
+/* ---- Custom footer ---- */.custom-footer {
+  position: relative;
+  margin-top: 3rem;
+  overflow: hidden;
+  width: 100vw;
+  margin-left: 0;
+}
+.footer-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('images/footer-bg.jpeg');
+  background-size: cover;
+  background-position: center;
+  filter: brightness(0.75);
+  z-index: 0;
+}.footer-content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  padding: 2.5rem 5%;
+  color: #ffffff;
+  width: 100%;
+}.footer-left,.footer-center,.footer-right {
+  flex: 1;
+}.footer-left {
+  text-align: left;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}.footer-center {
+  text-align: center;
+  font-size: 0.85rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  align-self: flex-end;
+  margin-top: auto;
+}.footer-center span {
+  color: #ccc;
+}.footer-claude-logo,.footer-quarto-logo,.footer-github-logo {
+  height: 16px;
+  width: auto;
+  filter: brightness(0) invert(1);
+}.footer-right {
+  text-align: right;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}.footer-right a {
+  color: #ffffff;
+  text-decoration: none;
+}.footer-right a:hover {
+  color: #FF8200;
+  text-decoration: underline;
+}.footer-right i {
+  margin-right: 0.3rem;
+}
+
+/* Hide default Quarto footer */.nav-footer {
+  display: none !important;
+}
+
+/* ---- Publications ---- */.content > section > ul {
+  list-style: none;
+  padding-left: 0;
+}.content > section > ul > li {
+  margin-bottom: 1.2rem;
+  padding-left: 2rem;
+  text-indent: -2rem;
+}
+
+/* ---- Scholar link ---- */.scholar-link {
+  background-color: #fff8f0;
+  border-left: 4px solid #FF8200;
+  padding: 1rem 1.5rem;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+}.scholar-link a {
+  color: #FF8200;
+}.scholar-link a:hover {
+  color: #E07000;
+}
+
+/* ---- Profile page ---- */.profile-header {
+  display: flex;
+  gap: 2.5rem;
+  margin-bottom: 2rem;
+  align-items: flex-start;
+}.profile-photo img {
+  width: 250px;
+  border-radius: 8px;
+}.profile-info h1 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+}.profile-title {
+  margin: 0.1rem 0;
+  font-size: 1.1rem;
+  color: #555;
+}.profile-affiliations {
+  margin-top: 0.8rem;
+  font-size: 1rem;
+  line-height: 1.6;
+}.profile-links {
+  margin-top: 1rem;
+}.profile-links a {
+  color: #FF8200;
+  text-decoration: none;
+}.profile-links a:hover {
+  color: #E07000;
+  text-decoration: underline;
+}
+
+/* ---- Custom callout ---- */.custom-callout {
+  border-left: 4px solid #FF8200;
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 1.5rem 0;
+}.custom-callout-header {
+  background-color: #FF8200;
+  padding: 0.6rem 1rem;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 1.1rem;
+}.custom-callout-icon {
+  margin-right: 0.5rem;
+}.custom-callout-body {
+  background-color: #fff8f0;
+  padding: 1rem;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}.custom-callout-body a {
+  color: #FF8200;
+}.custom-callout-body a:hover {
+  color: #E07000;
+}
+
+/* ---- Research page cards (wide) ---- */.research-card-wide {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  transition: box-shadow 0.2s;
+}.research-card-wide:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}.research-card-wide.grid {
+  align-items: center;
+}.research-card-wide img {
+  width:100%;
+  object-fit: contain;
+  border-radius: 6px;
+}.research-card-wide h3 {
+  margin-top: 0;
+  font-size: 1.5rem;
+  -webkit-text-stroke: 0.6px;
+}.research-card-wide h3 a {
+  color: #FF8200;
+  text-decoration: none;
+}.research-card-wide h3 a:hover {
+  color: #E07000;
+}.research-card-wide p {
+  font-size: 1.05rem;
+  margin-bottom: 0;
+}
+
+/* ---- Research page carousel ---- */.research-carousel {
+  height: 800px;
+  margin-top: 1rem;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+/* ---- Sponsor logos ---- */.sponsor-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 5rem;
+  margin-top: 1.5rem;
+}.sponsor-logos a {
+  display: inline-block;
+}.sponsor-logos img {
+  width: auto;
+  opacity: 0.7;
+  transition: all 0.3s;
+}.sponsor-logos img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
