@@ -1,12 +1,11 @@
 ---
-title: "People"
 listing:
   - id: pi
     contents: people
     type: grid
     grid-columns: 3
     sort: "order"
-    fields: [image, title, role]
+    fields: [image, title]
     include:
       group: "PI"
   - id: postdocs
@@ -14,10 +13,11 @@ listing:
     type: grid
     grid-columns: 3
     sort: "order"
-    fields: [image, title, role]
+    fields: [image, title]
     include:
       group: "Postdocs"
 ---
+## Principal Investigator
 
 :::{#pi}
 :::
