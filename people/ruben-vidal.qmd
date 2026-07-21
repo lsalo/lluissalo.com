@@ -18,8 +18,8 @@ image: "/images/people/ruben-vidal.png"
       The University of Tennessee, Knoxville
     </p>
     <p class="profile-links">
-      <!-- <a href="mailto:lyildiri@utk.edu"><i class="bi bi-envelope-fill"></i> lyildiri@utk.edu</a> ·  -->
-       <a href="https://scholar.google.com/citations?user=_fuM9HgAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar</a>  ·
+      <a href="mailto:rvidalmo@utk.edu"><i class="bi bi-envelope-fill"></i> rvidalmo@utk.edu</a> · 
+      <a href="https://scholar.google.com/citations?user=_fuM9HgAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar</a>  ·
       <a href="https://www.linkedin.com/in/rubén-vidal-montes-3595627b/" target="_blank">LinkedIn</a>  ·
       <a href="https://www.researchgate.net/profile/Ruben-Vidal-2?ev=hdr_xprf" target="_blank">ResearchGate</a>
     </p>
