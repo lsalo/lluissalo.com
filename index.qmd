@@ -19,7 +19,7 @@ toc: false
 Our group uses a variety of approaches to simulate, assess, and understand geosystems. In particular, we combine physics-based and data-driven modeling with laboratory experiments to address fundamental and applied research questions at the intersection of geoscience, subsurface energy, and the environment. We are based in the Department of Earth, Environmental, and Planetary Sciences at the University of Tennessee, Knoxville, where we regularly interact with the Department of Civil and Environmental Engineering and the Bredesen Center for Interdisciplinary Research and Graduate Education.
 
 ## Latest News
-<!-- - **Jun 2026** — Hannah Lu's paper accepted in *Stochastic Environmental Research and Risk Assessment*. --> 
+- **Jun 2026** — Hannah Lu's [paper](https://doi.org/10.1007/s00477-026-03305-z) accepted in *Stochastic Environmental Research and Risk Assessment*.
 - **Jun 2026** — Rubén Vidal Montes joins the group as a Postdoctoral Researcher. Welcome!
 - **Mar 2026** — L. T. Ozgur Yildirim joins the group as a Postdoctoral Researcher. Welcome!
 <!-- - **Jan 2026** — Lluís joins UTK as the Barbara McDonald Assistant Professor in Energy Transition. ![](images/news/utk-join.jpg){.news-img} -->

@@ -16,9 +16,9 @@ Our work in this area has (so far) focused on normal faults in soft siliciclasti
 
 ## Selected Publications
 
-- H. Lu, **Lluís Saló-Salgado**, and R. Juanes. Lithological Controls on the Permeability of Geologic Faults: Surrogate Modeling and Sensitivity Analysis, 2025. In review. [Preprint](https://doi.org/10.48550/arXiv.2511.09674)
+- H. Lu, L. Saló-Salgado, and R. Juanes. Lithological controls on the permeability of geologic faults: surrogate modeling and sensitivity analysis. *Stochastic Environmental Research and Risk Assessment*, 40(8):186, 2026. [DOI](https://doi.org/10.1007/s00477-026-03305-z)
 
-- **Lluís Saló-Salgado**, J. S. Davis, and R. Juanes. Fault permeability from stochastic modeling of clay smears. *Geology*, 51(1):91–95, 2023. [DOI](https://doi.org/10.1130/G50739.1) · [Supplement: Description of PREDICT](https://doi.org/10.1130/GEOL.S.21397161) · [Code](https://github.com/lsalo/predict)
+- L. Saló-Salgado, J. S. Davis, and R. Juanes. Fault permeability from stochastic modeling of clay smears. *Geology*, 51(1):91–95, 2023. [DOI](https://doi.org/10.1130/G50739.1) · [Supplement: Description of PREDICT](https://doi.org/10.1130/GEOL.S.21397161) · [Code](https://github.com/lsalo/predict)
 
 ## Gallery
 
