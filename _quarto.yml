@@ -6,6 +6,7 @@ project:
 website:
   title: "SALO Lab"
   site-url: "https://lluissalo.com"
+  google-analytics: "G-E5Q2D5PYPD"
   navbar:
     background: "#FF8200"
     foreground: "#ffffff"
