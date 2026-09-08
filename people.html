@@ -128,6 +128,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-grads .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-Co-advisor','listing-Track',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-grads'] = new List('listing-grads', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-E5Q2D5PYPD"></script>
 
@@ -293,10 +321,45 @@ L. T. Ozgur Yildirim
 </section>
 <section id="graduate-students" class="level2">
 <h2 class="anchored" data-anchor-id="graduate-students">Graduate Students</h2>
-<div id="grads">
+<div id="listing-grads" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1788873996233" data-listing-reading-time-sort="1" data-listing-word-count-sort="162">
+<a href="./people/ana-rincon.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/people/ana-rincon.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ana María Rincón Pérez
+</h5>
+<table class="card-other-values">
 
+<tbody><tr>
+<td>
+Co-advisor
+</td>
+<td class="Co-advisor">
+Co-advised with <a href="https://eeps.utk.edu/person/anner-paldor/">Dr.&nbsp;Anner Paldor</a>
+</td>
+</tr>
+
+<tr>
+<td>
+Track
+</td>
+<td class="Track">
+M.S. track
+</td>
+</tr>
+
+</tbody></table>
 </div>
-<p>Coming soon!</p>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 
 
 

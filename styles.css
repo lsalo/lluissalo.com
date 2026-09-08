@@ -345,3 +345,27 @@ h5.listing-title {
   filter: grayscale(0%);
   opacity: 1;
 }
+
+/* ---- People card extra fields ---- */
+.card-other-values,
+.card-other-values tbody,
+.card-other-values tr,
+.card-other-values td {
+  display: block;
+  width: 100%;
+}
+
+.card-other-values td:first-child {
+  display: none;
+}
+
+.card-other-values td {
+  font-size: 1.0rem;
+  padding: 0;
+  margin-bottom: 0.15rem;
+  white-space: normal;
+}
+
+.card-other-values td a {
+  padding: 0;
+}
