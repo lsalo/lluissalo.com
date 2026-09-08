@@ -1,0 +1,31 @@
+---
+title: "Ana María Rincón Pérez"
+group: "grads"
+order: 100
+image: "/images/people/ana-rincon.jpeg"
+Co-advisor: "Co-advised with [Dr. Anner Paldor](https://eeps.utk.edu/person/anner-paldor/)"
+Track: "M.S. track"
+---
+
+```{=html}
+<div class="profile-header">
+  <div class="profile-photo">
+    <img src="/images/people/ana-rincon.jpeg" alt="Ana María Rincón Pérez">
+  </div>
+  <div class="profile-info">
+    <p class="profile-title">Graduate student (MS track)</p>
+    <p class="profile-coadvisor">Co-advised with <a href="https://eeps.utk.edu/person/anner-paldor/" target="_blank">Dr. Anner Paldor</a></p>
+    <p class="profile-affiliations">
+      Department of Earth, Environmental, and Planetary Sciences (EEPS)<br>
+      The University of Tennessee, Knoxville
+    </p>
+    <p class="profile-links">
+      <a href="mailto:arinconp@vols.utk.edu"><i class="bi bi-envelope-fill"></i> arinconp@vols.utk.edu</a> · 
+      <a href="https://www.linkedin.com/in/ana-maría-rincón-pérez/" target="_blank">LinkedIn</a> 
+    </p>
+  </div>
+</div>
+```
+
+## Bio
+Ana María Rincón holds BSc degrees in Biology and Geology from the National University of Colombia and is currently pursuing an M.S. in Geology with a focus on Hydrogeology at the University of Tennessee, Knoxville. Her research interests focus on groundwater resources, hydrological modeling, and numerical approaches to understanding and managing groundwater systems. She is also interested in understanding fault systems and their relationship with groundwater flow and hydrogeological processes in coastal environments.

@@ -16,6 +16,14 @@ listing:
     fields: [image, title]
     include:
       group: "Postdocs"
+  - id: grads
+    contents: people
+    type: grid
+    grid-columns: 3
+    sort: "order"
+    fields: [image, title, Co-advisor, Track]
+    include:
+      group: "grads"
 ---
 ## Principal Investigator
 
@@ -31,4 +39,3 @@ listing:
 
 :::{#grads}
 :::
-Coming soon!
