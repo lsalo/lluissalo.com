@@ -55,13 +55,9 @@ Subsurface energy operations involve the injection and/or withdrawal of fluids f
 
 ### Sponsors
 
-We gratefully acknowledge the support of our research sponsors, without whom our research would not be possible.
+We gratefully acknowledge the support of our research sponsors, without whom our research would not be possible:
 
-<div class="sponsor-logos">
-  <a href="https://corporate.exxonmobil.com" target="_blank" style="margin-right: 1rem;">
-    <img src="/images/sponsors/exxonmobil.png" alt="ExxonMobil" style="height: 30px;">
-  </a>
-  <a href="https://www.conservation.ca.gov" target="_blank">
-    <img src="/images/sponsors/ca-doc.png" alt="California Department of Conservation" style="height: 60px;">
-  </a>
-</div>
+::: {.sponsor-list}
+- ExxonMobil Technology and Engineering Company (EMTEC)
+- California Department of Conservation
+:::
