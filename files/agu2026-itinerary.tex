@@ -1,0 +1,97 @@
+\documentclass[10pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage[letterpaper,margin=0.85in,top=0.65in,bottom=0.75in]{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage[hidelinks]{hyperref}
+
+\definecolor{utk}{HTML}{FF8200}
+\definecolor{ink}{HTML}{222222}
+\definecolor{muted}{HTML}{6B6B6B}
+
+\hypersetup{pdftitle={SALO Lab at AGU26 -- Itinerary},pdfauthor={SALO Lab, University of Tennessee, Knoxville}}
+
+\setlength{\parindent}{0pt}
+\color{ink}
+
+% Day headings
+\titleformat{\section}{\Large\bfseries}{}{0pt}{}[{\color{utk}\titlerule[1.2pt]}]
+\titlespacing*{\section}{0pt}{12pt}{8pt}
+
+% Footer
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[L]{\small\color{muted}SALO Lab $\cdot$ University of Tennessee, Knoxville}
+\fancyfoot[R]{\small\color{muted}\thepage}
+
+% Group members (bold in author lists)
+\newcommand{\me}[1]{#1}
+
+% \talk{time}{format}{title}{authors}{session line}{location}
+\newcommand{\talk}[6]{%
+  \begin{minipage}[t]{0.19\linewidth}
+    \raggedright{\bfseries #1}\\[2pt]
+    {\small\color{utk}\bfseries #2}
+  \end{minipage}\hfill
+  \begin{minipage}[t]{0.79\linewidth}
+    \raggedright
+    {\bfseries #3}\par\vspace{3pt}
+    {#4}\par\vspace{3pt}
+    {\small\color{muted}\textit{Session:} #5}\par
+    {\small\color{muted}\textit{Location:} #6}
+  \end{minipage}\par\vspace{10pt}}
+
+\begin{document}
+
+{\color{utk}\rule{\linewidth}{3pt}}\\[8pt]
+{\huge\bfseries SALO Lab at AGU26}\\[6pt]
+{\large AGU Annual Meeting $\cdot$ San Francisco $\cdot$ 7--11 December 2026}\\[4pt]
+{\small\color{muted}Moscone Center. All times local (PST). First author is the presenting author.}\\[-2pt]
+{\color{utk}\rule{\linewidth}{0.6pt}}
+
+\section{Monday, 7 December}
+
+\talk{14:15--17:45\\16:35--16:40}{Poster +\\eLightning}
+{Learning and Inferring Multiphase Flow Dynamics in Porous Media using Scientific Machine Learning: Application to the ``FluidFlower'' CO$_2$ Injection Experiment}
+{Hannah Lu, \me{Lluís Saló-Salgado}, Yun-Ting Chou, Ehsan Haghighat, Ruben Juanes}
+{H14G \quad (abstract H14G-05)}
+{Poster Hall (Hall ABC), Moscone South (14:15--17:45);\\ Room 2, Moscone South (16:35--16:40)}
+
+\section{Tuesday, 8 December}
+
+\talk{10:30--10:41}{Oral}
+{Faults in Siliciclastic Settings: From Permeability Structure to Reactivation {\normalfont\color{utk}(invited)}}
+{\me{Lluís Saló-Salgado}, Hannah Lu, Andreas Plesch, John H. Shaw, Ruben Juanes}
+{H22E \quad (abstract H22E-01)}
+{Room 3014, Moscone West}
+
+\talk{11:03--11:14}{Oral}
+{FracNet: AI-Based Probabilistic Prediction of Flow and Particle Transport in Dense Fracture Networks}
+{Angela Liu, \me{Lluís Saló-Salgado}, Hannah Lu, Ruben Juanes}
+{H22A \quad (abstract H22A-04)}
+{Room 3002, Moscone West}
+
+\talk{14:15--17:45}{Poster}
+{3D Multiphase Flow--Geomechanics Assessment of the 2024 Southern San Joaquin Valley Earthquake Sequence, California}
+{\me{Levent Taylan Ozgur Yildirim}, \me{Lluís Saló-Salgado}, Robert Welch, Andreas Plesch, John H. Shaw, Ruben Juanes}
+{H23L \quad (abstract H23L-1603)}
+{Poster Hall (Hall ABC), Moscone South}
+
+\talk{14:15--17:45}{Poster}
+{End-to-End Uncertainty Quantification of Geologic CO$_2$ Storage in Faulted Reservoirs}
+{Shaowen Mao, \me{Lluís Saló-Salgado}, Hannah Lu, Patricia Ascanio-Pellon, Christie Rogers, Nathan Harkins, Rodrick D. Myers, Lisa Lun, Ruben Juanes}
+{H23L \quad (abstract H23L-1613)}
+{Poster Hall (Hall ABC), Moscone South}
+
+\talk{14:26--14:37}{Oral}
+{Constraining fault-permeability predictors with process-based stochastic modeling of fault architecture}
+{\me{Rubén Vidal-Montes}, \me{Lluís Saló-Salgado}, Shaowen Mao, Rodrick D. Myers, Christie Rogers, Lisa Lun, Ruben Juanes}
+{H23C \quad (abstract H23C-02)}
+{Room 3014, Moscone West}
+
+\end{document}
